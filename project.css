@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-con {
+    background-image: url('  https://framerusercontent.com/images/zVGgwmo6ScU3htooSpZHXSZNESc.png');
+    height: 120vh;
+    background-size: cover;
+}
+
+.firstdiv {
+    margin-left: 200px;
+}
+
+.m-logo {
+    height: 120px;
+    width: 200px;
+    margin: 45px;
+}
+
+.m-heading {
+    color: white;
+    font-family: "roboto";
+    margin: 25px;
+}
+
+.para {
+    color: grey;
+    font-family: "roboto";
+    margin: 25px;
+}
+
+p {
+    color: white;
+    font-family: "roboto";
+    margin: 25px;
+}
+
+.but {
+    margin-left: 30px;
+    padding-left: 75px;
+    padding-right: 75px;
+    font-weight: bold;
+}
+
+.bp {
+    color: grey;
+    padding: 13px;
+    font-family: "roboto";
+    margin-bottom: 60px;
+}
+
+.sir-con {
+    background-color: #52504d;
+    height: 500px;
+    width: 360px;
+    border-radius: 15px;
+    margin-left: 180px;
+    margin-top: 65px;
+}
+
+.sir-img {
+    height: 195px;
+    width: 360px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.s-name {
+    font-weight: bold;
+    color: white;
+    font-size: 35px;
+    padding: 15px;
+}
+
+.bg-con2 {
+    background-image: url('https://framerusercontent.com/images/tJOlgmTXKvGovZXyzQlxftMsALI.png');
+    height: 40vh;
+    background-size: cover;
+}
+
+.time-head {
+    color: white;
+    text-align: center;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 55px;
+}
+
+.r-but {
+    text-align: center;
+}
+
+.bg-con3 {
+    background-color: #222423;
+    height: 100;
+}
+
+.bg-3-head {
+    color: white;
+    text-align: center;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 55px;
+    font-size: 45px;
+}
+
+.bg-3-boxdiv {
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+
+.bg-3-box {
+    background-color: #393a3e;
+    border-radius: 15px;
+    height: 96px;
+    width: 596px;
+    margin: 10px;
+
+}
+
+.tic-img {
+    height: 96px;
+    width: 135px;
+    padding-top: 8px;
+}
+
+.tic-p {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.tic-box2 {
+    text-align: right;
+}
+
+.bg-3-but {
+    margin-top: 13px;
+}
+
+.bg-con4 {
+    background-image: url('https://framerusercontent.com/images/uxMu2bbQ4vQOzARfep2rLA0LAcc.png');
+    height: 120vh;
+    background-size: cover;
+}
+
+.bg-con4-head {
+    color: white;
+    text-align: center;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 55px;
+    font-size: 45px;
+}
+
+.bg-con4-img {
+    text-align: center;
+}
+
+.bg-4-img {
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 0px;
+}
+
+.bg-con5 {
+    background-color: #222423;
+    height: 140vh;
+}
+
+.bg-5head {
+    color: white;
+    text-align: center;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 55px;
+    font-size: 45px;
+}
+
+.six-boxes {
+    margin-left: 90px;
+}
+
+
+.bg-5-boxdiv {
+    margin-left: 170px;
+    margin-bottom: 40px;
+}
+
+.bg-5box {
+    background-color: #393a3e;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+.bg-5-head {
+    color: white;
+    font-weight: bold;
+    font-family: "roboto";
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.bg-5img {
+    border-radius: 30px;
+    height: 40px;
+    width: 40px;
+    margin: 25px;
+}
+
+.bg-con6 {
+    background-image: linear-gradient(to right, #104826, #000000);
+    height: 80vh;
+    background-size: cover;
+}
+
+.img-con6 {
+    text-align: center;
+
+}
+
+.bg-6img {
+    height: 300px;
+    width: 500px;
+    margin-top: 120px;
+    margin-right: 150px;
+    margin-left: 50px;
+    padding: 5px;
+
+}
+
+.bg-con6-head {
+    color: white;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 25px;
+
+
+}
+
+.bg-con-6para {
+    color: white;
+    font-family: "roboto";
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.bg-6textcon {
+    text-align: left;
+    margin-right: 180px;
+    margin-top: 80px;
+}
+
+
+
+.bg-con7 {
+    background-image: url('https://framerusercontent.com/images/tJOlgmTXKvGovZXyzQlxftMsALI.png?scale-down-to=1024');
+    height: 50vh;
+    background-size: cover;
+}
+
+
+.bg-con7sub1 {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+
+.bg-con7sub2 {
+    margin-top: 100px;
+    margin-right: 400px;
+}
+
+.bg-con7head {
+    color: white;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+
+.bg-con7para {
+    color: white;
+    font-family: "roboto";
+    font-size: 30px;
+}
+
+.bg-con7head2 {
+    color: white;
+    text-decoration: line-through;
+}
+
+
+.bg-con7head3 {
+    color: white;
+    font-weight: bold;
+}
+
+
+.bg-butdiv {
+    text-align: right;
+    margin-bottom: 50px;
+}
+
+.bg-con7but {
+
+    padding-left: 75px;
+    padding-right: 75px;
+    font-weight: bold;
+    margin-left: 900px;
+    margin-bottom: 25px;
+
+}
+
+
+.bg-con8 {
+    background-color: #393a3e;
+    height: 50vh;
+    background-size: cover;
+
+}
+
+.bg-con8img {
+    height: 100px;
+    width: 180px;
+    margin: 50px;
+}
+
+.bg-con8head {
+    color: white;
+    font-size: 20px;
+
+}
+
+.bg-contxt {
+    color: white;
+    font-size: 15px;
+}
+
+.pages {
+    margin: 5px;
+}
+
+.bg-con8elmts {
+    margin-left: 540px;
+    margin-top: 70px;
+
+}
+
+.hli {
+    color: white;
+    width: 20px;
+}
